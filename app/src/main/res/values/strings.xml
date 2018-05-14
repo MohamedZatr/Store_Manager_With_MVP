@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Store Manager</string>
+    <string name="hint_of_email">E-mail</string>
+    <string name="hint_of_password">Password</string>
+    <string name="hint_of_Re_password">Re_Password</string>
+    <string name="login">Login</string>
+    <string name="singup">Sing Up</string>
+    <string name="registeration">Registeration</string>
+</resources>
