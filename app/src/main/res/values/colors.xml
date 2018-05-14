@@ -5,10 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="textOfBackground">#fff</color>
     <color name="colorselector">
-    <selector xmlns:android="http://schemas.android.com/apk/res/android">
-        <item android:color="#000" android:state_pressed="true" />
-        <item android:color="@color/colorAccent" />
-    </selector>
-
     </color>
 </resources>
