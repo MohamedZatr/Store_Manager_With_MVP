@@ -33,7 +33,9 @@
         />
         <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/textOfBackground"
+            >
     <EditText
         android:backgroundTint="#fff"
         android:layout_width="match_parent"
@@ -49,6 +51,7 @@
             android:layout_height="wrap_content"
             app:passwordToggleEnabled="true"
             app:passwordToggleTint="@color/textOfBackground"
+            android:textColorHint="@color/textOfBackground"
             >
     <EditText
         android:drawableLeft="@drawable/password"
@@ -66,7 +69,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:passwordToggleEnabled="true"
-            app:passwordToggleTint="@color/textOfBackground">
+            app:passwordToggleTint="@color/textOfBackground"
+            android:textColorHint="@color/textOfBackground"
+            >
     <EditText
         android:drawableLeft="@drawable/password"
         android:backgroundTint="#fff"
