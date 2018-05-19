@@ -6,4 +6,8 @@
     <string name="login">Login</string>
     <string name="singup">Sing Up</string>
     <string name="registeration">Registeration</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="message_of_image">Select image or Take image ?</string>
+    <string name="select_image">Select Image</string>
+    <string name="take_image">Take Image</string>
 </resources>
